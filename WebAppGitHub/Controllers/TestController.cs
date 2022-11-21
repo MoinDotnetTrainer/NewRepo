@@ -8,5 +8,10 @@ namespace WebAppGitHub.Controllers
         {
             return View();
         }
+
+        public IActionResult Demo()
+        {
+            return View();
+        }
     }
 }
